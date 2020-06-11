@@ -1,5 +1,5 @@
 # Star War 
 
-![Guerra nas Estrelas](./star_wars.png)
+![Guerra nas Estrelas](./logo.png)
 
 Este repositorio serve de exemplo para o curso Git e Github.
